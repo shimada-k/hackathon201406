@@ -1,5 +1,5 @@
 # テックヒルズ×iBeaconハッカソン
-2014年06月28日開催の「テックヒルズ×iBeaconハッカソン」に参加した時の成果物です。スライドはslideshareに上げておきました。
+2014年06月28日開催の「テックヒルズ×iBeaconハッカソン」に参加した時の成果物です。スライドは[slideshare](http://www.slideshare.net/KatsuyaShimada/techhils20140628)に上げておきました。
 
 # client
 クライアント側は2種類のアプリがあります。ibeaconの電波を受信する側とwebsocketのイベント通知を受ける側です。前者はenemy、後者はfriendディレクトリに格納してあります。
